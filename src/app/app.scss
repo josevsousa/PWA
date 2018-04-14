@@ -1,5 +1,9 @@
 // http://ionicframework.com/docs/theming/
 
+.btMenu{ 
+    color: color($colors, PWA_6) !important;
+    background-color: color($colors, PWA_7) ;
+}
 
 // App Global Sass
 // --------------------------------------------------
